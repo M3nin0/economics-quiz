@@ -1,0 +1,256 @@
+{
+    "economics": {
+        "quests":[
+            {
+             "num": 1,
+             "pergunta": "Defina economia",
+             "resposta": ""
+            },
+            {
+                "num": 2,
+                "pergunta": "O que se entende por patrimônio ?",
+                "resposta": ""
+            },
+            {
+                "num": 3,
+                "pergunta": "É correto afirmar que a economia é uma ciência dinâmica ? Justifique",
+                "resposta": ""
+            },
+            {
+                "num": 4,
+                "pergunta": "Explique a diferença entre uma questão econômica e outra administrativa-financeira",
+                "resposta": "Econômica é inter-empresa, e a administrativa é intra-empresa"
+            }, 
+            {
+                "num": 5,
+                "pergunta": "O que se entende por formas de pagamento ? Cite-as",
+                "resposta": "São as modalidades aceitas no pagamento, sendo elas, a vista, parcelado, financiado"
+            },
+            {
+                "num": 6,
+                "pergunta": "O que se entende por meios de pagamento ? Cite-os",
+                "resposta": "São os instrumentos aceitos para pagar, são eles, cartão de crédito, cartão de débito, dinheiro, cheque"
+            },
+            {
+                "num": 7,
+                "pergunta": "O que se entende por mercado ?",
+                "resposta": "É um ambiente adequado para o fechamento de negócios"
+            },
+            {
+                "num": 8,
+                "pergunta": "O que caracteriza a existência do mercado ?",
+                "resposta": "Existência SIMULTANEA, de oferta, demanda e preço de equilibrio"
+            },
+            {
+                "num": 9,
+                "pergunta": "O que se entende por oferta ?",
+                "resposta": "Representa a lógica do produto na relação de mercado"
+            }, 
+            {
+                "num": 10,
+                "pergunta": "O que se entende por demanda ?",
+                "resposta": "Representa a lógica do consumidor na relação de mercado"
+            },
+            {
+                "num": 11,
+                "pergunta": "O que entende por preço de equiíbrio ?",
+                "resposta": "Valor capaz de matematicamente, igualar a oferta e a demanda"
+            }, 
+            { 
+                "num": 12,
+                "pergunta": "Quem atua no mercado real ?",
+                "resposta": "Os atores economômico-sociais"
+            }, 
+            {
+                "num": 13,
+                "pergunta": "Cite os principais atores econômico-sociais",
+                "resposta": "Pessoas físicas e pessoas júridicas"
+            }, 
+            {
+                "num": 14,
+                "pergunta": "Qual nome se dá a ação gerada pelos atores econômico-sociais no momento presente e passado ?",
+                "resposta": "Passado: Fato econômico-social, Presente: Ato econômico-social"
+            }, 
+            {
+                "num": 15,
+                "pergunta": "O que caracteriza um fato econômico social ?",
+                "resposta": "É a relevância economica"
+            },
+            {
+                "num": 16,
+                "pergunta": "Como se determina a relevância de um fato econômico-social", 
+                "resposta": "Suas repercursões econômicas (Setorial, nacional, internacional)"
+            },
+            {
+                "num": 17,
+                "pergunta": "Qual é o objeto de estudo da economia positiva ?",
+                "resposta": "Fato econômico social"
+            },
+            {
+                "num": 18,
+                "pergunta": "Qual é o orgão oficial brasileiro responsável pelas análises da economia positiva ?",
+                "resposta": "Instituto brasileiro de geografia e estatistica"
+            },
+            {
+                "num": 19,
+                "pergunta": "Através de que são expressos os resultados da economia positiva no Brasil",
+                "resposta": "Indices e indicadores econômicos"
+            }, 
+            {
+                "num": 20,
+                "pergunta": "Com base em que são feitas as análises econômicas ?",
+                "resposta": "Teoria macro e micro-economica"
+            },
+            {
+                "num": 21,
+                "pergunta": "Do que trata a teoria macroeconômica ?",
+                "resposta": "Assunto de relevância setorial, nacional, internacional"
+            },
+            {
+                "num": 22,
+                "pergunta": "Do que trata a teoria microeconômica ?",
+                "resposta": "Pontualmente produtos e serviços"
+            }, 
+            {
+                "num": 23,
+                "pergunta": "Cite dois índices ou indicadores econômicos brasileiros (Por extenso)",
+                "resposta": ""
+            }, 
+            {
+                "num": 24,
+                "pergunta": "Qual é o objeto de estudo da economia normativa ?",
+                "resposta": "Cenários econômicos futuros"
+            },
+            {
+                "num": 25,
+                "pergunta": "Qual é o orgão oficial brasileiro responsável pelas análises da economia normativa ? (Nome por extenso)",
+                "resposta": "Conselho de política monetária do banco central"
+            }, 
+            {
+                "num": 26,
+                "pergunta": "Como é composto o COPOM ?",
+                "resposta": "Concelheiros, representante dos mais importântes segmentos econômicos e do governo"
+            }, 
+            {
+                "num": 27,
+                "pergunta": "Através de que são expressos os resultados da economia normativa no Brasil ?",
+                "resposta": "Taxa SELIC e os boletins do banco central"
+            }, 
+            {
+                "num": 28,
+                "pergunta": "O que se entende por taxa SELIC ?",
+                "resposta": "Taxa básica de juros da economia"
+            }, 
+            {
+                "num": 29,
+                "pergunta": "É correto afirmar que as variações da taxa SELIC tem consequências imediatas na economia das famílias ? Justifique",
+                "resposta": "Não, tem consequências indiretas"
+            },
+            {
+                "num": 30,
+                "pergunta": "O que se entende por Boletim do banco central ? Qual a sua importância ?",
+                "resposta": "Informativo, pós reunião do COPOM é explicado o voto dos concelheiros"
+            }, 
+            {
+                "num": 31,
+                "pergunta": "Com base em que são feitas as análises de cenário ?",
+                "resposta": "Séries históricas de índices econômicos, opiniões e espectativas do mercado"
+            }, 
+            {
+                "num": 32,
+                "pergunta": "Quais os cenários-base ?",
+                "resposta": "Otimista, médio, pessimista"
+            }, 
+            {
+                "num": 33,
+                "pergunta": "O que se entende por cenário otimista ?",
+                "resposta": "Limite da saturação"
+            }, 
+            {
+                "num": 34,
+                "pergunta": "O que se entende por cenário pessimista ?",
+                "resposta": "Limite de ociosidade"
+            }, 
+            {
+                "num": 35,
+                "pergunta": "O que se entende por cenário médio",
+                "resposta": "Manutenção do cenário atual"
+            }, 
+            {
+                "num": 36,
+                "pergunta": "Explique a diferença entre meta e objetivo",
+                "resposta": "Objetivo é uma inteção, e a meta deve ser clara, detalhada e mensurável"
+            },
+            {
+                "num": 37,
+                "pergunta": "Por que a análise de cenários deve ser feita em período de tempo igual ou superior a cinco anos ?",
+                "resposta": "Para possíbilitar uma correta visualização de tendências"
+            },
+            {
+                "num": 38,
+                "pergunta": "O que se entende por tendência ?",
+                "resposta": "Uma possível tragetória seguindo os dados atuais"
+            },
+            {
+                "num": 39,
+                "pergunta": "Cite os tipos de tendência",
+                "resposta": "ascendente, estável e descendente"
+            },
+            {
+                "num": 40,
+                "pergunta": "O que se entende por hiato produtivo ?",
+                "resposta": "Período de tempo entre decidir produzir e a produção ficar pronta"
+            },
+            {
+                "num": 41,
+                "pergunta": "Qual é a relação entre hiato produtivo e risco ?",
+                "resposta": "Diretamente proporcional"
+            },
+            {
+                "num": 42,
+                "pergunta": "O que se entende por custo marginal de produção",
+                "resposta": "É o custo para se produzir uma unidade adicional"
+            },
+            {
+                "num": 43, 
+                "pergunta": "Explique a diferença entre competidor e concorrente",
+                "resposta": "Competidor é no mesmo segmento, concorrente em qualquer outro segmento"
+            },
+            {
+                "num": 44,
+                "pergunta": "Explique a diferença entre oferta e promoção",
+                "resposta": "Tudo que está a venda está em oferta, promoção exige vantagem explicita ao consumidor"
+            },
+            {
+                "num": 45,
+                "pergunta": "Explique a diferença entre cliente e consumidor",
+                "resposta": "Consumidor: Demanda uma solução; Cliente: Tem preferências"
+            },
+            {
+                "num": 46,
+                "pergunta": "É possível fidelizar consumidores ? Justifique",
+                "resposta": "Não, é possível fidelizar clientes"
+            },
+            {
+                "num": 47,
+                "pergunta": "O que se entende por sistema produtivo ?",
+                "resposta": "Representação dos elementos necessários a produção"
+            }, 
+            {
+                "num": 48,
+                "pergunta": "Cite os fatores de produção",
+                "resposta": "Mão de obra, matéria-prima, energia e insumos"
+            }, 
+            {
+                "num": 49,
+                "pergunta": "Cite os principais ativos que compõem uma empresa ?",
+                "resposta": "Imóveis, máquinas e equipamentos e bens de capital"
+            },
+            {
+                "num": 50,
+                "pergunta": "O que se entende por resíduo ?",
+                "resposta": "Subproduto de uma produção"
+            }
+        ]   
+    }
+}

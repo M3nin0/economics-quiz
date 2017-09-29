@@ -1,5 +1,13 @@
 import subprocess
+import platform
 import json
+
+sys = platform.system()
+
+if sys == 'Linux' or sys == 'darwin':
+    command = 'clear'
+elif sys == 'Windows':
+    command = 'cls'
 
 with open('economia.json') as dados:
     data = json.load(dados)
@@ -11,4 +19,6 @@ for i in data['economics']['quests']:
     input("Aperte qualquer tecla para ver a resposta")
     print("Resposta: " + str(i['resposta']))
     input("Aperte qualquer tecla para a próxima pergunta")
-    subprocess.run(['clear'])
+    subprocess.run([command])
+
+print("Fim =D")

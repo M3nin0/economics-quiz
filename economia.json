@@ -4,17 +4,17 @@
             {
              "num": 1,
              "pergunta": "Defina economia",
-             "resposta": ""
+             "resposta": " Ramo da ciência sociais que estuda a produção e acumulo de patrimônio"
             },
             {
                 "num": 2,
                 "pergunta": "O que se entende por patrimônio ?",
-                "resposta": ""
+                "resposta": "Riqueza"
             },
             {
                 "num": 3,
                 "pergunta": "É correto afirmar que a economia é uma ciência dinâmica ? Justifique",
-                "resposta": ""
+                "resposta": "Sim, porque necessidades e desejos são dinâmicos"
             },
             {
                 "num": 4,
@@ -39,7 +39,7 @@
             {
                 "num": 8,
                 "pergunta": "O que caracteriza a existência do mercado ?",
-                "resposta": "Existência SIMULTANEA, de oferta, demanda e preço de equilibrio"
+                "resposta": "Existência SIMULTANEA, de oferta, demanda e preço de equilíbrio"
             },
             {
                 "num": 9,
@@ -53,7 +53,7 @@
             },
             {
                 "num": 11,
-                "pergunta": "O que entende por preço de equiíbrio ?",
+                "pergunta": "O que se entende por preço de equilíbrio ?",
                 "resposta": "Valor capaz de matematicamente, igualar a oferta e a demanda"
             }, 
             { 
@@ -74,7 +74,7 @@
             {
                 "num": 15,
                 "pergunta": "O que caracteriza um fato econômico social ?",
-                "resposta": "É a relevância economica"
+                "resposta": "É a relevância econômica"
             },
             {
                 "num": 16,
@@ -88,8 +88,8 @@
             },
             {
                 "num": 18,
-                "pergunta": "Qual é o orgão oficial brasileiro responsável pelas análises da economia positiva ?",
-                "resposta": "Instituto brasileiro de geografia e estatistica"
+                "pergunta": "Qual é o orgão oficial brasileiro responsável pelas análises da economia positiva ? (Nome por extenso)",
+                "resposta": "Instituto brasileiro de geografia e estatística"
             },
             {
                 "num": 19,
@@ -129,7 +129,7 @@
             {
                 "num": 26,
                 "pergunta": "Como é composto o COPOM ?",
-                "resposta": "Concelheiros, representante dos mais importântes segmentos econômicos e do governo"
+                "resposta": "Concelheiros, representante dos mais importantes segmentos econômicos e do governo"
             }, 
             {
                 "num": 27,
@@ -149,7 +149,7 @@
             {
                 "num": 30,
                 "pergunta": "O que se entende por Boletim do banco central ? Qual a sua importância ?",
-                "resposta": "Informativo, pós reunião do COPOM é explicado o voto dos concelheiros"
+                "resposta": "Documento emitido após a reunião do COPOM e explica a suas decisões"
             }, 
             {
                 "num": 31,

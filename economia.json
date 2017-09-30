@@ -3,7 +3,7 @@
         "quests":[
             {
              "num": 1,
-             "pergunta": "Defina economia",
+             "pergunta": "Defina \neconomia",
              "resposta": " Ramo da ciência sociais que estuda a produção e acumulo de patrimônio"
             },
             {
@@ -250,6 +250,256 @@
                 "num": 50,
                 "pergunta": "O que se entende por resíduo ?",
                 "resposta": "Subproduto de uma produção"
+            }, 
+            {
+                "num": 51,
+                "pergunta": "Explique a diferença entre descarte e tratamento de resíduo",
+                "resposta": "Tratamento torna inofensivo, descarte é o aterramento"
+            }, 
+            {
+                "num": 52,
+                "pergunta": "É correto afirmar que os elementos que compôem o sistema produtivo podem gerar agrupamento de empresas do mesmo segmento ? Qual nome se da a esse processo. Justifique",
+                "resposta": "Sim, podem gerar cluster"
+            }, 
+            {
+                "num": 53,
+                "pergunta": "O que se entende por cadeia produtiva",
+                "resposta": "Representação da relação, fornecedor X cliente"
+            }, 
+            {
+                "num": 54,
+                "pergunta": "Quais são os fluxos existentes numa cadeia produtiva ?",
+                "resposta": "Materiais e financeiros"
+            }, 
+            {
+                "num": 55,
+                "pergunta": "O que se entende por fluxo financeiro ?",
+                "resposta": "Fluxo de pagamentos"
+            }, 
+            {
+                "num": 56,
+                "pergunta": "O que se entende por fluxo de materiais ?",
+                "resposta": "Fluxo de entrega de produtos e serviços"
+            }, 
+            {
+                "num": 57,
+                "pergunta": "Qual é a abrangência de análise da cadeia produtiva que pode minimizar os riscos operacionais ?",
+                "resposta": "Dois elos antes e dois depois daquele em que atua"
+            }, 
+            {
+                "num": 58,
+                "pergunta": "Explique a diferença entre necessidade e desejo",
+                "resposta": "Necessidade se refere a algo útil, concreto e de curto prazo. Desejo se refere a algo fútil, abstrato e de longo prazo"
+            }, 
+            {
+                "num": 59,
+                "pergunta": "O que se entende por estrutura de mercado ?",
+                "resposta": "Representação dos três atos, comuns a qualquer empresa "
+            }, 
+            {
+                "num": 60,
+                "pergunta": "Quais são os três atos comuns a qualquer empresa ?",
+                "resposta": "Comprar, produzir e vender "
+            }, 
+            {
+                "num": 61,
+                "pergunta": "O que se entende por mercado de fatores ?",
+                "resposta": "Representação do ato de compra"
+            }, 
+            {
+                "num": 62,
+                "pergunta": "Quem faz a oferta no mercado de fatores ?",
+                "resposta": "Os fornecedores"
+            }, 
+            {
+                "num": 63,
+                "pergunta": "Quem faz a demanda no mercado de fatores ?",
+                "resposta": "As empresas que compôem o mercado derivado"
+            }, 
+            {
+                "num": 64,
+                "pergunta": "Que nome se dá ao valor pago no mercado de fatores ?",
+                "resposta": "Remuneração"
+            }, 
+            {
+                "num": 65,
+                "pergunta": "O que se entende por mercado de produtos ?",
+                "resposta": "Representação do ato de venda"
+            }, 
+            {
+                "num": 66,
+                "pergunta": "Quem faz a oferta no mercado de produtos ?",
+                "resposta": "As empresas do mercado derivado"
+            }, 
+            {
+                "num": 67,
+                "pergunta": "Quem faz a demanda no mercado de produtos ?",
+                "resposta": "Os clientes"
+            }, 
+            {
+                "num": 68,
+                "pergunta": "Que nome se da ao valor pago no mercado de produtos ?",
+                "resposta": "Preço"
+            }, 
+            {
+                "num": 69,
+                "pergunta": "Quem compôe o mercado derivado ?",
+                "resposta": "As empresas que atuam em determinado segmento e lugar"
+            }, 
+            {
+                "num": 70,
+                "pergunta": "Por que o mercado derivado tem esse nome ?",
+                "resposta": "Porque deriva da necessidade dos clientes, e da disponibilidade dos fornecedores"
+            }, 
+            {
+                "num": 71,
+                "pergunta": "Qual é a importância de se análisar a estrutura dos mercados ?",
+                "resposta": "Visualizar oportunidades e riscos nas conexões estratégicas"
+            }, 
+            {
+                "num": 72,
+                "pergunta": "Cite os tipos de mercado",
+                "resposta": "Monopólio, oligopólios, concorrência perfeita e concorrência imperfeita"
+            }, 
+            {
+                "num": 73,
+                "pergunta": "O que significa o termo monopólio ? E Monopsônio",
+                "resposta": "Monopólio: Um só fornecedor; Monopsônico: Um só cliente"
+            }, 
+            {
+                "num": 74,
+                "pergunta": "Cite as características do monopólio e explique uma",
+                "resposta": "Caracteristicas: Unicidade, opacidade, insubstitubilidade, barreiras e poder ;\nExplicação: Unicidade = Uma só empresa atuando em determinado segmento e lugar"
+            }, 
+            {
+                "num": 75,
+                "pergunta": "O que significa unicidade ?",
+                "resposta": "Uma só empresa atuando em determinado segmento e lugar"
+            }, 
+            {
+                "num": 76,
+                "pergunta": "A que se refere a opacidade ?",
+                "resposta": "Informação"
+            }, 
+            {
+                "num": 77,
+                "pergunta": "O que se entende por insubstitubilidade ?",
+                "resposta": "Produto ou serviço insubstituivel"
+            }, 
+            {
+                "num": 78,
+                "pergunta": "Cite os tipos de barreiras",
+                "resposta": "Legal\nTecnológica\nEconômica"
+            }, 
+            {
+                "num": 79,
+                "pergunta": "A que se refere as barreiras do monopólio ?",
+                "resposta": "Impeditivo ao surgimento de competidores"
+            }, 
+            {
+                "num": 80,
+                "pergunta": "A que se refere ao poder de monopólio ?",
+                "resposta": "Preço e quantidade ofertada"
+            },
+            {
+                "num": 81,
+                "pergunta": "O que significa o termo oligopólios ? E Oligopsônios",
+                "resposta": "Oligopólios: Poucos fornecedores relevantes\nOligopsônios: Poucos clientes relevantes"
+            },
+            {
+                "num": 82,
+                "pergunta": "Cite as características dos oligopólios e explique uma",
+                "resposta": "N° de empresas\nVisibilidade\nSimilaridade\nRivalização\nExtrapreço\nBarreiras\nPoder"
+            },
+            {
+                "num": 83,
+                "pergunta": "O que se entende por número de empresas ?",
+                "resposta": "Poucas empresas com poder de influência, dominando o segmento"
+            },
+            {
+                "num": 84,
+                "pergunta": "A que se refere a rivalização ?",
+                "resposta": "Segmento altamente competitivo"
+            },
+            {
+                "num": 85,
+                "pergunta": "Explique a diferença entre visibilidade e transparência",
+                "resposta": "Transparência: Toda informação está livre, disponível\nVisibilidade: A informação é seletiva"
+            },
+            {
+                "num": 86,
+                "pergunta": "O que está relacionado a visibilidade ?",
+                "resposta": "As estratégias comerciais e de marketing"
+            },
+            {
+                "num": 87,
+                "pergunta": "Explique a diferença entre produto homogêneo e similar",
+                "resposta": "Homogêneo: Pode ser substituido por semelhante sem restrições e o similar com restrições"
+            },
+            {
+                "num": 88,
+                "pergunta": "O que se entende por extra-preço ?",
+                "resposta": "Artificio capaz de diferenciar produto e serviço"
+            },
+            {
+                "num": 89,
+                "pergunta": "Explique a diferença entre o extra-preço dos oligopólios e da concorrência-perfeita",
+                "resposta": "Oligopólios: Garante a preferência na hora da compra\nConcorrência-perfeita: Cobra mais caro"
+            },
+            {
+                "num": 90,
+                "pergunta": "Como se dá o poder nos oligopólios ?",
+                "resposta": "Em duas situações, normal e cartel"
+            },
+            {
+                "num": 91,
+                "pergunta": "O que se entende por situação normal dos oligopólios",
+                "resposta": "Situação rivalizada"
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
+            },
+            {
+                "num": ,
+                "pergunta": "",
+                "resposta": ""
             }
         ]   
     }

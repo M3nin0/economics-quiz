@@ -369,7 +369,7 @@
             {
                 "num": 74,
                 "pergunta": "Cite as características do monopólio e explique uma",
-                "resposta": "Caracteristicas: Unicidade, opacidade, insubstitubilidade, barreiras e poder ;\nExplicação: Unicidade = Uma só empresa atuando em determinado segmento e lugar"
+                "resposta": "\nCaracteristicas: Unicidade, opacidade, insubstitubilidade, barreiras e poder ;\nExplicação: Unicidade = Uma só empresa atuando em determinado segmento e lugar"
             }, 
             {
                 "num": 75,
@@ -404,12 +404,12 @@
             {
                 "num": 81,
                 "pergunta": "O que significa o termo oligopólios ? E Oligopsônios",
-                "resposta": "Oligopólios: Poucos fornecedores relevantes\nOligopsônios: Poucos clientes relevantes"
+                "resposta": "\nOligopólios: Poucos fornecedores relevantes\nOligopsônios: Poucos clientes relevantes"
             },
             {
                 "num": 82,
                 "pergunta": "Cite as características dos oligopólios e explique uma",
-                "resposta": "N° de empresas\nVisibilidade\nSimilaridade\nRivalização\nExtrapreço\nBarreiras\nPoder"
+                "resposta": "\nN° de empresas\nVisibilidade\nSimilaridade\nRivalização\nExtrapreço\nBarreiras\nPoder"
             },
             {
                 "num": 83,
@@ -424,7 +424,7 @@
             {
                 "num": 85,
                 "pergunta": "Explique a diferença entre visibilidade e transparência",
-                "resposta": "Transparência: Toda informação está livre, disponível\nVisibilidade: A informação é seletiva"
+                "resposta": "\nTransparência: Toda informação está livre, disponível\nVisibilidade: A informação é seletiva"
             },
             {
                 "num": 86,
@@ -444,7 +444,7 @@
             {
                 "num": 89,
                 "pergunta": "Explique a diferença entre o extra-preço dos oligopólios e da concorrência-perfeita",
-                "resposta": "Oligopólios: Garante a preferência na hora da compra\nConcorrência-perfeita: Cobra mais caro"
+                "resposta": "\nOligopólios: Garante a preferência na hora da compra\nConcorrência-perfeita: Cobra mais caro"
             },
             {
                 "num": 90,
@@ -457,49 +457,49 @@
                 "resposta": "Situação rivalizada"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 92,
+                "pergunta": "O que significa cartel ? Qual é o nome dado a seu ato ?",
+                "resposta": "Reunião ilegal de empresas rivais com o objetivo de prejudicar a econômia popular, seu ato se chama conluio"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 93,
+                "pergunta": "O que significa a sigla CADE ?",
+                "resposta": "Concelho administrativo de defesa econômica"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 94,
+                "pergunta": "Cite as características da concorrência perfeita e explique uma",
+                "resposta": "\nAtomização\nTransparência\nHomogeneidade\nPermeabilidade\nPreço limite\nMobilidade\nExtra preço"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 95,
+                "pergunta": "O que se entende por atomização ?",
+                "resposta": "Várias empresas inespresivas atuando no segmento e lugar"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 96,
+                "pergunta": "O que se entende por permeabilidade ?",
+                "resposta": "Inexistência de barreiras"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 97,
+                "pergunta": "O que se entende por mobilidade, no contexto da concorrência perfeita",
+                "resposta": "Autonomia de seguir ou não o preço limite"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 98,
+                "pergunta": "Explique a diferença entre o preço limite e o preço de mercado",
+                "resposta": "Preço de mercado admite manipulação, preço limite não"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 99,
+                "pergunta": "Cite dois produtos ou serviços que sejam característicos da concorrência imperfeita",
+                "resposta": "Bombril, Guaraná Jesus, Windows"
             },
             {
-                "num": ,
-                "pergunta": "",
-                "resposta": ""
+                "num": 100,
+                "pergunta": "Que outro nome se da a concorrência imperfeita ? Porquê ?",
+                "resposta": "Concorrência monopolista, porque existe uma preferência popular que dá ao ofertante poder próximo ao do monopólio"
             }
         ]   
     }

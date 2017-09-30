@@ -12,8 +12,10 @@ elif sys == 'Windows':
 with open('economia.json') as dados:
     data = json.load(dados)
 
+subprocess.run([command])
+
 for i in data['economics']['quests']:
-    
+
     print("Veja se conseque responder...")
     print("Pergunta: " + str(i['pergunta']))
     input("Aperte qualquer tecla para ver a resposta")

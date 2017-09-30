@@ -93,13 +93,13 @@
             },
             {
                 "num": 19,
-                "pergunta": "Através de que são expressos os resultados da economia positiva no Brasil",
+                "pergunta": "Através de que são expressos os resultados da economia positiva no Brasil ?",
                 "resposta": "Indices e indicadores econômicos"
             }, 
             {
                 "num": 20,
                 "pergunta": "Com base em que são feitas as análises econômicas ?",
-                "resposta": "Teoria macro e micro-economica"
+                "resposta": "Teoria macro e micro-econômica"
             },
             {
                 "num": 21,
@@ -114,7 +114,7 @@
             {
                 "num": 23,
                 "pergunta": "Cite dois índices ou indicadores econômicos brasileiros (Por extenso)",
-                "resposta": ""
+                "resposta": "Índice de custo de vida; Índice Geral de Preço (IGP)"
             }, 
             {
                 "num": 24,
@@ -149,7 +149,7 @@
             {
                 "num": 30,
                 "pergunta": "O que se entende por Boletim do banco central ? Qual a sua importância ?",
-                "resposta": "Documento emitido após a reunião do COPOM e explica a suas decisões"
+                "resposta": "Documento emitido após a reunião do COPOM para explicar as suas decisões"
             }, 
             {
                 "num": 31,
@@ -173,7 +173,7 @@
             }, 
             {
                 "num": 35,
-                "pergunta": "O que se entende por cenário médio",
+                "pergunta": "O que se entende por cenário médio ?",
                 "resposta": "Manutenção do cenário atual"
             }, 
             {

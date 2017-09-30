@@ -3,7 +3,7 @@
         "quests":[
             {
              "num": 1,
-             "pergunta": "Defina \neconomia",
+             "pergunta": "Defina economia",
              "resposta": " Ramo da ciência sociais que estuda a produção e acumulo de patrimônio"
             },
             {
@@ -258,7 +258,7 @@
             }, 
             {
                 "num": 52,
-                "pergunta": "É correto afirmar que os elementos que compôem o sistema produtivo podem gerar agrupamento de empresas do mesmo segmento ? Qual nome se da a esse processo. Justifique",
+                "pergunta": "É correto afirmar que os elementos que compôem o sistema produtivo podem gerar agrupamento de empresas do mesmo segmento ? Qual nome se da a esse processo ?",
                 "resposta": "Sim, podem gerar cluster"
             }, 
             {
@@ -389,7 +389,7 @@
             {
                 "num": 78,
                 "pergunta": "Cite os tipos de barreiras",
-                "resposta": "Legal\nTecnológica\nEconômica"
+                "resposta": "\nLegal\nTecnológica\nEconômica"
             }, 
             {
                 "num": 79,
@@ -409,7 +409,7 @@
             {
                 "num": 82,
                 "pergunta": "Cite as características dos oligopólios e explique uma",
-                "resposta": "\nN° de empresas\nVisibilidade\nSimilaridade\nRivalização\nExtrapreço\nBarreiras\nPoder"
+                "resposta": "\nNúmero de empresas\nVisibilidade\nSimilaridade\nRivalização\nExtrapreço\nBarreiras\nPoder\nExplicação - Número de empresas: Poucas empresas com poder de influência, dominando o segmento"
             },
             {
                 "num": 83,
@@ -469,7 +469,7 @@
             {
                 "num": 94,
                 "pergunta": "Cite as características da concorrência perfeita e explique uma",
-                "resposta": "\nAtomização\nTransparência\nHomogeneidade\nPermeabilidade\nPreço limite\nMobilidade\nExtra preço"
+                "resposta": "\nAtomização\nTransparência\nHomogeneidade\nPermeabilidade\nPreço limite\nMobilidade\nExtra preço\nExplicação - Permeabilidade: Inexistência de barreiras"
             },
             {
                 "num": 95,

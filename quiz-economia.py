@@ -12,7 +12,6 @@ elif sys == 'Windows':
 with open('economia.json') as dados:
     data = json.load(dados)
 
-
 def question(inicio, fim):
     for j in range(inicio, fim):
         print("Veja se conseque responder...")
@@ -26,6 +25,8 @@ subprocess.run([command])
 
 choose = int(input("Escolha:\n1 - Responder primeiras 50 questões\n2 - Responder as ultimas 50 questões\n3 - Todas as questões\n"))
 
+subprocess.run([command])
+
 if choose == 1:
     question(0, 50)
 
@@ -34,5 +35,6 @@ elif choose == 2:
 
 elif choose == 3:
     question(0, 100)
-        
-print("Fim =D")
+
+else:
+    print("Nada foi escolhido")

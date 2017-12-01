@@ -23,18 +23,18 @@ def question(inicio, fim):
 
 subprocess.run([command])
 
-choose = int(input("Escolha:\n1 - Responder primeiras 50 questões\n2 - Responder as ultimas 50 questões\n3 - Todas as questões\n"))
+choose = int(input("Escolha:\n1 - Responder as questões do primeiro bimestre\n2 - Responder as questões do segundo bimestre\n3 - Todas as questões\n"))
 
 subprocess.run([command])
 
 if choose == 1:
-    question(0, 50)
+    question(0, 100)
 
 elif choose == 2:
-    question(51, 100)
+    question(101, 76)
 
 elif choose == 3:
-    question(0, 100)
+    question(0, 176)
 
 else:
     print("Nada foi escolhido")

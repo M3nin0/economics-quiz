@@ -20,7 +20,7 @@
                 "num": 4,
                 "pergunta": "Explique a diferença entre uma questão econômica e outra administrativa-financeira",
                 "resposta": "Econômica é inter-empresa, e a administrativa é intra-empresa"
-            }, 
+            },
             {
                 "num": 5,
                 "pergunta": "O que se entende por formas de pagamento ? Cite-as",
@@ -45,7 +45,7 @@
                 "num": 9,
                 "pergunta": "O que se entende por oferta ?",
                 "resposta": "Representa a lógica do produto na relação de mercado"
-            }, 
+            },
             {
                 "num": 10,
                 "pergunta": "O que se entende por demanda ?",
@@ -55,22 +55,22 @@
                 "num": 11,
                 "pergunta": "O que se entende por preço de equilíbrio ?",
                 "resposta": "Valor capaz de matematicamente, igualar a oferta e a demanda"
-            }, 
-            { 
+            },
+            {
                 "num": 12,
                 "pergunta": "Quem atua no mercado real ?",
                 "resposta": "Os atores economômico-sociais"
-            }, 
+            },
             {
                 "num": 13,
                 "pergunta": "Cite os principais atores econômico-sociais",
                 "resposta": "Pessoas físicas e pessoas júridicas"
-            }, 
+            },
             {
                 "num": 14,
                 "pergunta": "Qual nome se dá a ação gerada pelos atores econômico-sociais no momento presente e passado ?",
                 "resposta": "Passado: Fato econômico-social, Presente: Ato econômico-social"
-            }, 
+            },
             {
                 "num": 15,
                 "pergunta": "O que caracteriza um fato econômico social ?",
@@ -78,7 +78,7 @@
             },
             {
                 "num": 16,
-                "pergunta": "Como se determina a relevância de um fato econômico-social", 
+                "pergunta": "Como se determina a relevância de um fato econômico-social",
                 "resposta": "Suas repercursões econômicas (Setorial, nacional, internacional)"
             },
             {
@@ -95,7 +95,7 @@
                 "num": 19,
                 "pergunta": "Através de que são expressos os resultados da economia positiva no Brasil ?",
                 "resposta": "Indices e indicadores econômicos"
-            }, 
+            },
             {
                 "num": 20,
                 "pergunta": "Com base em que são feitas as análises econômicas ?",
@@ -110,12 +110,12 @@
                 "num": 22,
                 "pergunta": "Do que trata a teoria microeconômica ?",
                 "resposta": "Pontualmente produtos e serviços"
-            }, 
+            },
             {
                 "num": 23,
                 "pergunta": "Cite dois índices ou indicadores econômicos brasileiros (Por extenso)",
                 "resposta": "Índice de custo de vida; Índice Geral de Preço (IGP)"
-            }, 
+            },
             {
                 "num": 24,
                 "pergunta": "Qual é o objeto de estudo da economia normativa ?",
@@ -125,22 +125,22 @@
                 "num": 25,
                 "pergunta": "Qual é o orgão oficial brasileiro responsável pelas análises da economia normativa ? (Nome por extenso)",
                 "resposta": "Conselho de política monetária do banco central"
-            }, 
+            },
             {
                 "num": 26,
                 "pergunta": "Como é composto o COPOM ?",
                 "resposta": "Concelheiros, representante dos mais importantes segmentos econômicos e do governo"
-            }, 
+            },
             {
                 "num": 27,
                 "pergunta": "Através de que são expressos os resultados da economia normativa no Brasil ?",
                 "resposta": "Taxa SELIC e os boletins do banco central"
-            }, 
+            },
             {
                 "num": 28,
                 "pergunta": "O que se entende por taxa SELIC ?",
                 "resposta": "Taxa básica de juros da economia"
-            }, 
+            },
             {
                 "num": 29,
                 "pergunta": "É correto afirmar que as variações da taxa SELIC tem consequências imediatas na economia das famílias ? Justifique",
@@ -150,32 +150,32 @@
                 "num": 30,
                 "pergunta": "O que se entende por Boletim do banco central ? Qual a sua importância ?",
                 "resposta": "Documento emitido após a reunião do COPOM para explicar as suas decisões"
-            }, 
+            },
             {
                 "num": 31,
                 "pergunta": "Com base em que são feitas as análises de cenário ?",
                 "resposta": "Séries históricas de índices econômicos, opiniões e espectativas do mercado"
-            }, 
+            },
             {
                 "num": 32,
                 "pergunta": "Quais os cenários-base ?",
                 "resposta": "Otimista, médio, pessimista"
-            }, 
+            },
             {
                 "num": 33,
                 "pergunta": "O que se entende por cenário otimista ?",
                 "resposta": "Limite da saturação"
-            }, 
+            },
             {
                 "num": 34,
                 "pergunta": "O que se entende por cenário pessimista ?",
                 "resposta": "Limite de ociosidade"
-            }, 
+            },
             {
                 "num": 35,
                 "pergunta": "O que se entende por cenário médio ?",
                 "resposta": "Manutenção do cenário atual"
-            }, 
+            },
             {
                 "num": 36,
                 "pergunta": "Explique a diferença entre meta e objetivo",
@@ -212,7 +212,7 @@
                 "resposta": "É o custo para se produzir uma unidade adicional"
             },
             {
-                "num": 43, 
+                "num": 43,
                 "pergunta": "Explique a diferença entre competidor e concorrente",
                 "resposta": "Competidor é no mesmo segmento, concorrente em qualquer outro segmento"
             },
@@ -235,12 +235,12 @@
                 "num": 47,
                 "pergunta": "O que se entende por sistema produtivo ?",
                 "resposta": "Representação dos elementos necessários a produção"
-            }, 
+            },
             {
                 "num": 48,
                 "pergunta": "Cite os fatores de produção",
                 "resposta": "Mão de obra, matéria-prima, energia e insumos"
-            }, 
+            },
             {
                 "num": 49,
                 "pergunta": "Cite os principais ativos que compõem uma empresa ?",
@@ -250,152 +250,152 @@
                 "num": 50,
                 "pergunta": "O que se entende por resíduo ?",
                 "resposta": "Subproduto de uma produção"
-            }, 
+            },
             {
                 "num": 51,
                 "pergunta": "Explique a diferença entre descarte e tratamento de resíduo",
                 "resposta": "Tratamento torna inofensivo, descarte é o aterramento"
-            }, 
+            },
             {
                 "num": 52,
                 "pergunta": "É correto afirmar que os elementos que compôem o sistema produtivo podem gerar agrupamento de empresas do mesmo segmento ? Qual nome se da a esse processo ?",
                 "resposta": "Sim, podem gerar cluster"
-            }, 
+            },
             {
                 "num": 53,
                 "pergunta": "O que se entende por cadeia produtiva",
                 "resposta": "Representação da relação, fornecedor X cliente"
-            }, 
+            },
             {
                 "num": 54,
                 "pergunta": "Quais são os fluxos existentes numa cadeia produtiva ?",
                 "resposta": "Materiais e financeiros"
-            }, 
+            },
             {
                 "num": 55,
                 "pergunta": "O que se entende por fluxo financeiro ?",
                 "resposta": "Fluxo de pagamentos"
-            }, 
+            },
             {
                 "num": 56,
                 "pergunta": "O que se entende por fluxo de materiais ?",
                 "resposta": "Fluxo de entrega de produtos e serviços"
-            }, 
+            },
             {
                 "num": 57,
                 "pergunta": "Qual é a abrangência de análise da cadeia produtiva que pode minimizar os riscos operacionais ?",
                 "resposta": "Dois elos antes e dois depois daquele em que atua"
-            }, 
+            },
             {
                 "num": 58,
                 "pergunta": "Explique a diferença entre necessidade e desejo",
                 "resposta": "Necessidade se refere a algo útil, concreto e de curto prazo. Desejo se refere a algo fútil, abstrato e de longo prazo"
-            }, 
+            },
             {
                 "num": 59,
                 "pergunta": "O que se entende por estrutura de mercado ?",
                 "resposta": "Representação dos três atos, comuns a qualquer empresa "
-            }, 
+            },
             {
                 "num": 60,
                 "pergunta": "Quais são os três atos comuns a qualquer empresa ?",
                 "resposta": "Comprar, produzir e vender "
-            }, 
+            },
             {
                 "num": 61,
                 "pergunta": "O que se entende por mercado de fatores ?",
                 "resposta": "Representação do ato de compra"
-            }, 
+            },
             {
                 "num": 62,
                 "pergunta": "Quem faz a oferta no mercado de fatores ?",
                 "resposta": "Os fornecedores"
-            }, 
+            },
             {
                 "num": 63,
                 "pergunta": "Quem faz a demanda no mercado de fatores ?",
                 "resposta": "As empresas que compôem o mercado derivado"
-            }, 
+            },
             {
                 "num": 64,
                 "pergunta": "Que nome se dá ao valor pago no mercado de fatores ?",
                 "resposta": "Remuneração"
-            }, 
+            },
             {
                 "num": 65,
                 "pergunta": "O que se entende por mercado de produtos ?",
                 "resposta": "Representação do ato de venda"
-            }, 
+            },
             {
                 "num": 66,
                 "pergunta": "Quem faz a oferta no mercado de produtos ?",
                 "resposta": "As empresas do mercado derivado"
-            }, 
+            },
             {
                 "num": 67,
                 "pergunta": "Quem faz a demanda no mercado de produtos ?",
                 "resposta": "Os clientes"
-            }, 
+            },
             {
                 "num": 68,
                 "pergunta": "Que nome se da ao valor pago no mercado de produtos ?",
                 "resposta": "Preço"
-            }, 
+            },
             {
                 "num": 69,
                 "pergunta": "Quem compôe o mercado derivado ?",
                 "resposta": "As empresas que atuam em determinado segmento e lugar"
-            }, 
+            },
             {
                 "num": 70,
                 "pergunta": "Por que o mercado derivado tem esse nome ?",
                 "resposta": "Porque deriva da necessidade dos clientes, e da disponibilidade dos fornecedores"
-            }, 
+            },
             {
                 "num": 71,
                 "pergunta": "Qual é a importância de se análisar a estrutura dos mercados ?",
                 "resposta": "Visualizar oportunidades e riscos nas conexões estratégicas"
-            }, 
+            },
             {
                 "num": 72,
                 "pergunta": "Cite os tipos de mercado",
                 "resposta": "Monopólio, oligopólios, concorrência perfeita e concorrência imperfeita"
-            }, 
+            },
             {
                 "num": 73,
                 "pergunta": "O que significa o termo monopólio ? E Monopsônio",
                 "resposta": "Monopólio: Um só fornecedor; Monopsônico: Um só cliente"
-            }, 
+            },
             {
                 "num": 74,
                 "pergunta": "Cite as características do monopólio e explique uma",
                 "resposta": "\nCaracteristicas: Unicidade, opacidade, insubstitubilidade, barreiras e poder ;\nExplicação: Unicidade = Uma só empresa atuando em determinado segmento e lugar"
-            }, 
+            },
             {
                 "num": 75,
                 "pergunta": "O que significa unicidade ?",
                 "resposta": "Uma só empresa atuando em determinado segmento e lugar"
-            }, 
+            },
             {
                 "num": 76,
                 "pergunta": "A que se refere a opacidade ?",
                 "resposta": "Informação"
-            }, 
+            },
             {
                 "num": 77,
                 "pergunta": "O que se entende por insubstitubilidade ?",
                 "resposta": "Produto ou serviço insubstituivel"
-            }, 
+            },
             {
                 "num": 78,
                 "pergunta": "Cite os tipos de barreiras",
                 "resposta": "\nLegal\nTecnológica\nEconômica"
-            }, 
+            },
             {
                 "num": 79,
                 "pergunta": "A que se refere as barreiras do monopólio ?",
                 "resposta": "Impeditivo ao surgimento de competidores"
-            }, 
+            },
             {
                 "num": 80,
                 "pergunta": "A que se refere ao poder de monopólio ?",
@@ -500,7 +500,392 @@
                 "num": 100,
                 "pergunta": "Que outro nome se da a concorrência imperfeita ? Porquê ?",
                 "resposta": "Concorrência monopolista, porque existe uma preferência popular que dá ao ofertante poder próximo ao do monopólio"
+            },
+            {
+              "num": 101,
+              "pergunta": "O que se entende por curva de oferta ?",
+              "resposta": "É a representação gráfica da ofeta"
+            },
+            {
+              "num": 102,
+              "pergunta": "Quais são as características da curva de oferta ?",
+              "resposta": "Ascendete da esquerda para a direita, com relação diretamente proporcional entre o preço e a quantidade ofertada"
+            },
+            {
+              "num": 103,
+              "pergunta": "O que se entende por curva de demanda",
+              "resposta": "É a presentação gráfica da demanda"
+            },
+            {
+              "num": 104,
+              "pergunta": "Quais são as características da curva de demanda",
+              "resposta": "Descendente da esquerda para a direita, com relação inversamente proporcional entre o preço e a quantidade demandada"
+            },
+            {
+              "num": 105,
+              "pergunta": "O que ocorre com os estoques de uma empresa que pratica preços acima do preço de equilibrio ?",
+              "resposta": "Ficam com excesso de estoque"
+            },
+            {
+              "num": 106,
+              "pergunta": "Explique a diferença entre o ponto de equilíbrio financeiro e o econômico",
+              "resposta": "O financeiro é matemático, e o econômico é gráfico"
+            },
+            {
+              "num": 107,
+              "pergunta": "O que se entende por Elasticidade Preço (EP)",
+              "resposta": "Compreende a relação entre a variação relativa dos preços e a variação relativa das quantidades"
+            },
+            {
+              "num": 108,
+              "pergunta": "Explique a diferença entre a variação nominal e a variação relativa ?",
+              "resposta": "A variação nominal é expressa em unidade de medida ($, 1, k, unidade vendida, etc) enquanto a variação relativa é percentual"
+            },
+            {
+              "num": 109,
+              "pergunta": "Que relação existe entre variação nominal e variação relativa ?",
+              "resposta": "Relação inversamente proporcional"
+            },
+            {
+              "num": 110,
+              "pergunta": "Cite os tipos de E.P",
+              "resposta": "Unitária, elástica, inelástica, anelástica e perfeitamente elástica"
+            },
+            {
+              "num": 111,
+              "pergunta": "O que se entende por E.P unitária ?",
+              "resposta": "É aquela onde a variação relativa de preço provoca uma variação relativa nas quantidades em igual intensidade"
+            },
+            {
+              "num": 112,
+              "pergunta": "É correto afirmar que a E.P unitária é um caso especial ? Justifique",
+              "resposta": "Sim, pois é prevista, mas não tem aplicação prática conhecida"
+            },
+            {
+              "num": 113,
+              "pergunta": "O que se entende por E.P elástica ?",
+              "resposta": "É aquela onde a variação relativa de preço provoca uma variação relativa nas quantidades em maior intensidade"
+            },
+            {
+              "num": 114,
+              "pergunta": "Qual é a característica dos produtos com E.P elástica ?",
+              "resposta": "Produtos não essenciais"
+            },
+            {
+              "num": 115,
+              "pergunta": "O que se entende por E.P inelástica ?",
+              "resposta": "É aquela onde a variação relativa de preço provoca uma variação relativa nas quantidades em menor intensidade"
+            },
+            {
+              "num": 116,
+              "pergunta": "Qual é a caracaterística do produto com E.P inelástica ?",
+              "resposta": "Produto essencial"
+            },
+            {
+              "num": 117,
+              "pergunta": "O que se entende por E.P anelástico ?",
+              "resposta": "É aquela onde a variação relativa de preço não é capaz de provocar variação nas quantidades, que permanecem fixas"
+            },
+            {
+              "num": 118,
+              "pergunta": "Por qual nome também é conhecida a E.P anelástica ?",
+              "resposta": "E.P perfeitamente inelástica"
+            },
+            {
+              "num": 119,
+              "pergunta": "Qual é a característica de um produto com demanda anelástica ?",
+              "resposta": "Produto ou serviço vital"
+            },
+            {
+              "num": 120,
+              "pergunta": "O que se entende por E.P perfeitamente Elástica ?",
+              "resposta": "É aquela onde a variação relativa de preço não é capaz de provocar qualquer quantidade, ofertada ou demandada. Exemplo: (VERIFICAR)"
+            },
+            {
+              "num": 121,
+              "pergunta": "Qual é a caracaterística de um produto com oferta perfeitamente elástica ? Dê exemplo",
+              "resposta": "Produto invendável, ou inservível. Exemplo: (VERIFICAR)"
+            },
+            {
+              "num": 122,
+              "pergunta": "É correto afirmar que, pela demanda, os consumidores se encaixam numa classificação anelástica ou perfeitamente elástica ? Justifique",
+              "resposta": "Sim, por que o que é vital (Anelástico) para um consumidor, pode ser totalmente supérfluo para outro (perfeitamente elástico)"
+            },
+            {
+              "num": 123,
+              "pergunta": "O que se entende por variação quantitativa ?",
+              "resposta": "É aquela em que as quantidades variam em função da variação dos níveis de preços"
+            },
+            {
+              "num": 124,
+              "pergunta": "O que se entende por variação qualitativa ?",
+              "resposta": "É aquela em que as quantidades variam a preço fixo, em função da variação na qualidade da renda ou dos custos"
+            },
+            {
+              "num": 125,
+              "pergunta": "É correto afirmar que as quantidades podem variar a preços fixos ?",
+              "resposta": "Sim, em função da variação na qualidade da renda (para a demanda) ou dos custos (para oferta)"
+            },
+            {
+              "num": 126,
+              "pergunta": "Que fator é capaz de provocar o deslocamento da curva de oferta ?",
+              "resposta": "A variação da qualidade dos custos"
+            },
+            {
+              "num": 127,
+              "pergunta": "Que fator é capaz de provocar o deslocamento da curva de demanda ?",
+              "resposta": "A variação da qualidade da renda"
+            },
+            {
+              "num": 128,
+              "pergunta": "O que significa o deslocamento da curva de oferta para a esquerda ?",
+              "resposta": "Significa a piora na qualidade dos custos"
+            },
+            {
+              "num": 129,
+              "pergunta": "O que significa o deslocamento da curva de demanda para a direita ?",
+              "resposta": "Significa a melhora na qualidade dos custos"
+            },
+            {
+              "num": 130,
+              "pergunta": "Que nome se dá a variação quantitativa e qualitativa, respectivamente ?",
+              "resposta": "Variação na curva e da curva, respectivamente"
+            },
+            {
+              "num": 131,
+              "pergunta": "Em que se baseia a análise quantitativa ?",
+              "resposta": "Em séries históricas de dados"
+            },
+            {
+              "num": 132,
+              "pergunta": "Em que se baseia a análise qualitativa ?",
+              "resposta": "Em sinalizações e expectativas de mercado"
+            },
+            {
+              "num": 133,
+              "pergunta": "É correto afirmar que a análise qualitativa tem potencial para 'perpetuar resultados' ? Justifique ",
+              "resposta": "Não, esta é uma prerrogativa da análise quantitativa"
+            },
+            {
+              "num": 134,
+              "pergunta": "Defina inflação",
+              "resposta": "Movimento sistemático, prolongado e persistente de aumento dos níveis gerais de preços"
+            },
+            {
+              "num": 135,
+              "pergunta": "O que se entende por persistente",
+              "resposta": "Algo que não muda de tendência"
+            },
+            {
+              "num": 136,
+              "pergunta": "O que se entende por prolongado ?",
+              "resposta": "Período de tempo igual ou maior a 6 meses, consecutivos"
+            },
+            {
+              "num": 137,
+              "pergunta": "O que se entende por níveis gerais ?",
+              "resposta": "Os três setores da economia"
+            },
+            {
+              "num": 138,
+              "pergunta": "Qual é a origem da inflação brasileira ?",
+              "resposta": "A ação do Estado, indexando impostos, taxas e tarifas"
+            },
+            {
+              "num": 139,
+              "pergunta": "Cite os tipos da inflação",
+              "resposta": "Inflação de demanda e de custos"
+            },
+            {
+              "num": 140,
+              "pergunta": "O que se entende por inflação de demanda ?",
+              "resposta": "É aquela em que os preços são sistematicamente aumentados para ajustar os níveis de demanda à capacidade de oferta"
+            },
+            {
+              "num": 141,
+              "pergunta": "Cite duas formas de controle estatal para inflação de demanda",
+              "resposta": "Aumento taxa de juros; incentivo ao aumento de produção"
+            },
+            {
+              "num": 142,
+              "pergunta": "Defina inflação de custos",
+              "resposta": "É aquela em que há o repasse sistemático do aumento dos custos para os preços"
+            },
+            {
+              "num": 143,
+              "pergunta": "Cite os tipos de inflação de custos",
+              "resposta": "Inflação à posteriore, e, à priori"
+            },
+            {
+              "num": 144,
+              "pergunta": "O que se entende por inflação à posteriori ?",
+              "resposta": "É aquela em que existe o repasse de uma inflação já conhecida, para os preços"
+            },
+            {
+              "num": 145,
+              "pergunta": "Em que se baseia a inflação à posteriori ?",
+              "resposta": "Em fatos econômicos capazes de gerar inflação"
+            },
+            {
+              "num": 146,
+              "pergunta": "O que se entende por inflação à priori ?",
+              "resposta": "É aquela em que há o reajuste dos preços correntes com base em uma expectativa de inflação"
+            },
+            {
+              "num": 147,
+              "pergunta": "Em que se baseia a inflação à priori ?",
+              "resposta": "Apenas em expectativas de inflação, não dependendo de fato econômico gerador"
+            },
+            {
+              "num": 148,
+              "pergunta": "Quais são os tipos de mecanismos estatais para o controle da inflação ?",
+              "resposta": "Inflação de custos: Mecanismos de desoneração, e, de aumento de competitividade"
+            },
+            {
+              "num": 149,
+              "pergunta": "É correto afirmar que a inflação de custos à priori é a mais difícil de ser compatida ? Justifique",
+              "resposta": "Sim, por não ter fato gerador para ser trabalhado e resolvido"
+            },
+            {
+              "num": 150,
+              "pergunta": "Defina deflação",
+              "resposta": "Movimento sistemático, prolongado e persistente de redução dos níveis gerais de preço"
+            },
+            {
+              "num": 151,
+              "pergunta": "Defina estagnação",
+              "resposta": "Compreende um movimento de 'parada produtiva'"
+            },
+            {
+              "num": 152,
+              "pergunta": "Exlique a diferença entre a estagnação e a recessão",
+              "resposta": "A diferença está na amplitude, complexidade e gravidade dos efeitos"
+            },
+            {
+              "num": 153,
+              "pergunta": "É correto afirmar que é preferível conviver com níveis moderados de inflação, do que com qualquer nível de deflação ? Justifique",
+              "resposta": "Sim, por que níveis moderados de inflação permitem a manutenção do 'circulo virtuoso' da economia"
+            },
+            {
+              "num": 154,
+              "pergunta": "Que efeitos o aumento do salario mínio prova na inflação e no poder de compra das pessoas ?",
+              "resposta": "Provoca o aumento da inflação, e a queda no poder aquisitivo"
+            },
+            {
+              "num": 155,
+              "pergunta": "Defina rentabilidade",
+              "resposta": "Representa o dinheiro que sobre no caixa após um período de trabalho, após o pagamento e recebimento de tudo o que é devido"
+            },
+            {
+              "num": 156,
+              "pergunta": "Que fatores são considerados na análise da rentabilidade ?",
+              "resposta": "A margem de lucro do item vendido; a quantidade vendidade, e, o tempo de giro financeiro"
+            },
+            {
+              "num": 157,
+              "pergunta": "Que nome se dá a rentabilidade positiva e a negativa, respectivamente ?",
+              "resposta": "Superávir e déficit, respectivamente"
+            },
+            {
+              "num": 158,
+              "pergunta": "Explique a diferença entre o tempo de giro físico e o financeiro",
+              "resposta": "O físico contempla a movimentação material, enquanto o financeiro os fluxos de pagamento e recebimento do preço"
+            },
+            {
+              "num": 159,
+              "pergunta": "Porque se utiliza a margem de lucro do item vendido e não a margem média de lucros, na análise da rentabilidade ?",
+              "resposta": "Por que a margem média considera os itens em estoque, os quais não são capazes de gerar rentabilidade positiva nesta condição"
+            },
+            {
+              "num": 160,
+              "pergunta": "O que se entende por curva de rentabilidade",
+              "resposta": "A representação gráfica dos ciclos de rentabilidade"
+            },
+            {
+              "num": 161,
+              "pergunta": "Como é composto cada ciclo de rentabilidade ?",
+              "resposta": "De uma parte inicial de déficit, seguida por outra de superávit, passando por quatro pontos"
+            },
+            {
+              "num": 162,
+              "pergunta": "O que significa o primeiro ponto do ciclo de rentabilidade ?",
+              "resposta": "Máxima rentabilidade negativa"
+            },
+            {
+              "num": 163,
+              "pergunta": "O que significa o segundo ponto do ciclo de rentabilidade ?",
+              "resposta": "Equilíbrio financeiro, ou, rentabilidade nula"
+            },
+            {
+              "num": 164,
+              "pergunta": "O que significa o terceiro ponto do ciclo de rentabilidade ?",
+              "resposta": "Máxima rentabilidade positiva, e, saturação parcial"
+            },
+            {
+              "num": 165,
+              "pergunta": "O que significa o quarto ponto do ciclo de rentabilidade ?",
+              "resposta": "Equilíbrio financeiro, com saturação total"
+            },
+            {
+              "num": 166,
+              "pergunta": "Que nome se dá a passagem de um ciclo de rentabilidade para outro ?",
+              "resposta": "Migração"
+            },
+            {
+              "num": 167,
+              "pergunta": "Como se identifica, na prática, a passagem pelo terceiro ponto ?",
+              "resposta": "Quando se observa a necessidade de se inverstir na 'montagem inicial (ponto 1)'"
+            },
+            {
+              "num": 168,
+              "pergunta": "Qual é o momento adequado para se fazer a migração ? Porquê ?",
+              "resposta": "Logo após passar pelo terceiro ponto, por que a empresa está capitalizada (com dinheiro em caixa)"
+            },
+            {
+              "num": 169,
+              "pergunta": "Qual é a diferença entre o primeiro ponto do primeiro ciclo de rentabilidade, e, dos demais ciclos ?",
+              "resposta": "No primeiro ciclo ele corresponde à montagem inicial, e nos demais ciclos, a um reinvestimento expressivo"
+            },
+            {
+              "num": 170,
+              "pergunta": "Explique a diferença entre o segundo e o quarto ponto da curva de rentabilidade",
+              "resposta": "É o nível de saturação"
+            },
+            {
+              "num": 171,
+              "pergunta": "Cite dois riscos que envolvem a migração",
+              "resposta": "Sub utilização da nova estrutura, perda de identidade"
+            },
+            {
+              "num": 172,
+              "pergunta": "O que se entende por 'mexer no que dá certo' ? ",
+              "resposta": "Mexer no diferencial da empresa, em geral por desconhecimento"
+            },
+            {
+              "num": 173,
+              "pergunta": "O que se entende por 'descaracterizar a empresa'",
+              "resposta": "Significa perder a identidade da marca"
+            },
+            {
+              "num": 174,
+              "pergunta": "O que se entende por 'manter custos incompatíveis com as receitas' ?",
+              "resposta": "Significa que se tem receitas correspondentes ao antigo 'porte da empresa', e custos maiores, correspondentes a 'nova estrutura'"
+            },
+            {
+              "num": 175,
+              "pergunta": "O que se entende por 'subutilização da nova estrutura' ?",
+              "resposta": "Significa que demorará algum tempo até que a ociosidade seja reduzida, pela ocupação/uso da nova estrutura"
+            },
+            {
+              "num": 176,
+              "pergunta": "É correto afirmar que a rentabilidade é responsável pela manutenção de uma empresa no seu segmento ? Justifique",
+              "resposta": "Sim, pois todas as empresas que visam lucro precisam ser supervitárias para sobreviver"
+            },
+            {
+              "num": 177,
+              "pergunta": "Qual alternativas um empresário (que não consegue a dinâmica da curva de rentabilidade) tem, ao permanecer muito tempo no quarto ponto ?",
+              "resposta" : "Tentar vender a empresa, arrumar um sócio, ou, fechá-la"
             }
-        ]   
+        ]
     }
 }

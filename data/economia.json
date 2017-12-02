@@ -504,21 +504,21 @@
             {
               "num": 101,
               "pergunta": "O que se entende por curva de oferta ?",
-              "resposta": "É a representação gráfica da ofeta"
+              "resposta": "É a representação gráfica da oferta"
             },
             {
               "num": 102,
               "pergunta": "Quais são as características da curva de oferta ?",
-              "resposta": "Ascendete da esquerda para a direita, com relação diretamente proporcional entre o preço e a quantidade ofertada"
+              "resposta": "Ascendente da esquerda para a direita, com relação diretamente proporcional entre o preço e a quantidade ofertada"
             },
             {
               "num": 103,
               "pergunta": "O que se entende por curva de demanda",
-              "resposta": "É a presentação gráfica da demanda"
+              "resposta": "É a representação gráfica da demanda"
             },
             {
               "num": 104,
-              "pergunta": "Quais são as características da curva de demanda",
+              "pergunta": "Quais são as características da curva de demanda ?",
               "resposta": "Descendente da esquerda para a direita, com relação inversamente proporcional entre o preço e a quantidade demandada"
             },
             {
@@ -578,7 +578,7 @@
             },
             {
               "num": 116,
-              "pergunta": "Qual é a caracaterística do produto com E.P inelástica ?",
+              "pergunta": "Qual é a característica do produto com E.P inelástica ?",
               "resposta": "Produto essencial"
             },
             {

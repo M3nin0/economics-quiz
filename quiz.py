@@ -19,7 +19,8 @@ if __name__ == '__main__':
     if choose == 1:
         question.question(0, 100)
     elif choose == 2:
-        question.question(101, 177)
+        # 101 até 177
+        question.question(100, 177)
     elif choose == 3:
         question.question(0, 177)
     else:
